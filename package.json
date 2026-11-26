@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^13.2.0",
+    "dotenv": "^18.0.10",
+    "duck-duck-scrape": "^2.2.7",
+    "express": "^5.3.0",
+    "express-session": "^1.19.0",
+    "openai": "^7.60.0"
+  },"name": "ai"
+}
